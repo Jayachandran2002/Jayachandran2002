@@ -1,10 +1,10 @@
 Hi  My name is Jayachandran
 =============================
 
-Spring boot Full-stack developer
+Java Full-stack developer
 -------------------------
 
-Dynamic and motivated Spring boot Full-Stack Developer with a robust foundation in both front-end and back-end technologies. Eager to leverage my comprehensivetraining and hands-on project experience to contribute to innovative development teams. Known for my problem-solving abilities, strong communication skills, and a passion for creating efficient and scalable applications. Ready to bring fresh ideas and technical expertise to drive success in your projects.
+Dynamic and motivated Java Full-Stack Developer with a robust foundation in both front-end and back-end technologies. Eager to leverage my comprehensivetraining and hands-on project experience to contribute to innovative development teams. Known for my problem-solving abilities, strong communication skills, and a passion for creating efficient and scalable applications. Ready to bring fresh ideas and technical expertise to drive success in your projects.
 
 * 🌍  I'm based in Chennai
 * ✉  You can contact me at [sjayachandran.bsc@gmail.com](mailto:sjayachandran.bsc@gmail.com)
