@@ -1,11 +1,12 @@
-Hi  My name is Jayachandran
-=============================
+Hi there, I'm [Your Name] 👋
 
-Java Full-stack developer
--------------------------
+💼 **IT Infrastructure Support Engineer @ TCS** | 1+ years experience  
+🔐 Managing & maintaining physical security systems for TCS infrastructure  
+🌐 Network Enthusiast | Building my career in Networking & Infrastructure  
+📚 Currently learning: CCNA, Network Automation, Python for Networking  
+🎯 Goal: Transition into a Core Networking / Network Security role  
 
-Dynamic and motivated Java Full-Stack Developer with a robust foundation in both front-end and back-end technologies. Eager to leverage my comprehensivetraining and hands-on project experience to contribute to innovative development teams. Known for my problem-solving abilities, strong communication skills, and a passion for creating efficient and scalable applications. Ready to bring fresh ideas and technical expertise to drive success in your projects.
-
+Let's connect and grow together!
 * 🌍  I'm based in Chennai
 * ✉  You can contact me at [sjayachandran.bsc@gmail.com](mailto:sjayachandran.bsc@gmail.com)
 
