@@ -1,4 +1,4 @@
-Hi there, I'm [Your Name] 👋
+Hi there, I'm Jai 👋
 
 💼 **IT Infrastructure Support Engineer @ TCS** | 1+ years experience  
 🔐 Managing & maintaining physical security systems for TCS infrastructure  
