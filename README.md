@@ -3,7 +3,7 @@ Hi there, I'm Jai 👋
 💼 **IT Infrastructure Support Engineer @ TCS** | 1+ years experience  
 🔐 Managing & maintaining physical security systems for TCS infrastructure  
 🌐 Network Enthusiast | Building my career in Networking & Infrastructure  
-📚 Currently learning: CCNA, Network Automation, Python for Networking  
+📚 Currently learning: CCNA, Network Automation
 🎯 Goal: Transition into a Core Networking / Network Security role  
 
 Let's connect and grow together!
